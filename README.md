@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hey, I'm Harry 👋
 
-<!--
-**xzlr-8/xzlr-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer • 🛠️ Builder • 🎮 Gamer
+🇦🇺 Australia
 
-Here are some ideas to get you started:
+I like building random projects, experimenting with new tech, and turning ideas into things people can actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Working On
+
+* 🌐 Web projects & experiments
+* 🤖 Discord bots and automation
+* 🎮 Minecraft & gaming projects
+* 🐧 Linux / servers / self-hosting
+* ☁️ Cloudflare Workers & web infrastructure
+* 🔧 Hardware, homelab & random tech projects
+
+---
+
+## 🧰 Tech I Use
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
+![HTML](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge\&logo=cloudflare\&logoColor=F38020)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge\&logo=linux\&logoColor=FCC624)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xzlr-8&show_icons=true&theme=github_dark&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzlr-8&layout=compact&theme=github_dark&hide_border=true" height="170">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xzlr-8/xzlr-8/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+</p>
+
+---
+
+## 🌐 Find Me
+
+* 💻 GitHub: [@xzlr-8](https://github.com/xzlr-8)
+* 🌎 Website: [noonhack.online](https://noonhack.online)
+
+---
+
+<p align="center">
+  <i>Building things, breaking things, learning things.</i>
+</p>
